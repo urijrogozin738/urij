@@ -1,0 +1,3 @@
+  result = queue_results.get()
+            balances[result[0]] = result[1]
+            bar()
